@@ -1,7 +1,9 @@
-Starter Project - Solving Boggle (Part 1)
-Boggle (https://en.wikipedia.org/wiki/Boggle) is a word-finding game. The goal is to find as many words as possible in an NxN grid of letters.
 
 Google Doc: https://docs.google.com/document/d/1D8cSn81nd4ZrreFkqw-YcF909ytHqt1MHBV2IaNnWyw/edit?usp=sharing
+
+# Starter Project - Solving Boggle (Part 1)
+Boggle (https://en.wikipedia.org/wiki/Boggle) is a word-finding game. The goal is to find as many words as possible in an NxN grid of letters.
+
 RULES
 * Words must use adjacent tiles, including diagonals.
 * Each word may not use a cube more than once.
@@ -70,9 +72,7 @@ Here is a link to a quick tutorial for setting up Node.js on your local machine.
 
 Windows
 Mac
- Linux
+Linux
 
 How to run Node?
 $node boggle_solver.js
-Note
-Always be thinking about Readability. Your Code should be easy to understand.
